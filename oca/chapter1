@@ -1,9 +1,18 @@
 JAVA CLASS STRUCTURE	
 In Java, classes are the main concept to work with, they have members (fields and methods).
-- Classes can be thought as a concept with which a representation of the reality can be exposed. They can be tangible or intangible, for example: Animal, Dog, Purchase.
-- Fields, also known as variables or data, can be considered as properties that the class have. They allow objects to show a certain state. Such as: species, numberOfLegs, total.
-- Methods are described sometimes as functions or procedures, but there exists a distinction. In essence, a function 'does not return anything', a method does. In any case, the main point to keep in mind is that a method is a way of doing something. It's a behaviour that operates over the aforementioned state or it's a group of actions to do. For example: run(), eat(), pay(). 
-- Object, "is a runtime instance of a class in memory".That means that an object is going to be something that needs resources while the program is in executionand they are placed in the heap. 
-For that reason, the group of all objects of the program is going to be the state of the program itself. An object can be: tiger, peterTheBestDog, currency.
+- Classes can be thought as a concept with which a representation of the reality can be exposed.
+ They can be tangible or intangible, for example: Animal, Dog, Purchase.
+
+- Fields, also known as variables or data, can be considered as properties that the class have.
+ They allow objects to show a certain state. Such as: species, numberOfLegs, total.
+
+- Methods are described sometimes as functions or procedures, but there exists a distinction.
+ In essence, a function 'does not return anything', a method does. In any case, the main point to keep in mind is that a method is a way of doing something.
+ It's a behaviour that operates over the aforementioned state or it's a group of actions to do. For example: run(), eat(), pay().
+ 
+- Object, "is a runtime instance of a class in memory".That means that an object is going to be something that needs resources
+ while the program is in executionand they are placed in the heap. 
+For that reason, the group of all objects of the program is going to be the state of the program itself.
+ An object can be: tiger, peterTheBestDog, currency.
 
 
